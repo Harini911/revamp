@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <title>flying</title>
+    </head>
+
+    <body>
+        <h1>fly</h1>
+        <h2>fly</h2>
+        <h3>fly</h3>
+        <h4>fly</h4>
+        <h5>fly</h5>
+        <h6>fly</h6>
+
+    <p>Flies have a mobile head, with a pair of large compound eyes, and mouthparts designed for piercing and sucking (mosquitoes, black flies and robber flies), or for lapping and sucking in the other groups. Their wing arrangement gives them great maneuverability in flight, and claws and pads on their feet enable them to cling to smooth surfaces</p>
+    <button>submit</button>
+
+        <a href="https://en.wikipedia.org/wiki/Fly">
+
+    <button>go to Button</button>
+    </a>
+    <a href="./page1.html">
+
+        <button>go to Button page1</button>
+        </a><br>
+
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Six_Diptera.jpg/390px-Six_Diptera.jpg" alt="its fly">
+
+        <ol>
+            <li>honey</li>
+            <li>bees</li>
+            <li>flies</li>
+        </ol>
+        
+        <ul>
+            <li>honey</li>
+            <li>bees</li>
+            <li>flies</li>    
+        </ul>
+
+
+
+    </body>
+</html>
